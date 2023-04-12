@@ -1,5 +1,8 @@
+![image](https://user-images.githubusercontent.com/72017322/231417840-be6e2fe7-35df-4ca1-b570-d634436ddadb.png)
+
 # farming revolution tensorflow-and-ros-mini-project
 Mini-project to evaluate capabilities in tensorflow and ROS for applicants at farming revolution GmbH
+
 
 ## Objective
 The objective of this mini-project is to evaluate an applicant's  
@@ -21,6 +24,9 @@ The provided bag file contains images of plants published on the `/img_bgri` top
 rosbag play mini-project.bag -l
 rosrun image_view image_view image:=/img_bgri  # Visualize the image
 ```
+![image](https://user-images.githubusercontent.com/72017322/231418378-163ab21d-d1fe-429d-88e1-3ca5ffd94d19.png)
+
+
 
 ## Task
 
