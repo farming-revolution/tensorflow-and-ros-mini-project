@@ -1,5 +1,5 @@
 # farming revolution tensorflow-and-ros-mini-project
-Mini-project to evaluate capabilities in tensorflow and ROS
+Mini-project to evaluate capabilities in tensorflow and ROS for applicants at farming revolution GmbH
 
 ## Objective
 The objective of this mini-project is to evaluate an applicant's  
